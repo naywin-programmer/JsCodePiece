@@ -38,3 +38,5 @@ console.log(JsCodePiece.copyref(String('hello'))); // return false
 
 console.log(JsCodePiece.copyref(new String('hello'))); // return 'hello'
 ```
+---
+Github: [https://github.com/naywin-programmer/JsCodePiece](https://github.com/naywin-programmer/JsCodePiece)
