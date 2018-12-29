@@ -1,7 +1,7 @@
 // ### https://github.com/naywin-programmer/JsCodePiece
 
 const JsCodePiece = {
-	"jsonparse": function jsonparse(val) {
+	"jsonparse": function (val) {
 		return JSON.parse(JSON.stringify(val));
 	},
 	"copyref": function (val) {
